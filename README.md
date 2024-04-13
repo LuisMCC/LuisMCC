@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LuisMCC
+- 👋 Hi, I’m Luís Carvalho
 - 👀 I’m interested in fitness, gaming, sports, technology and mental health 
 - 🌱 I’m currently learning object oriented programming (OOP)
 - 💞️ I’m looking to collaborate on entry level projects 
